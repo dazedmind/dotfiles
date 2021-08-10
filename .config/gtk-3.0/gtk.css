@@ -1,0 +1,33 @@
+ 
+ .xfce4-panel {
+}
+ #pulseaudio-button menu .linked button {
+    color: white;
+ }  
+
+ #pulseaudio-button scale { 
+    padding:1rem 2rem;
+	width:5px;
+	margin-left:0%;
+ }
+
+ #pulseaudio-button switch {
+	width:1px;
+	height:1px;
+	
+ }
+
+#pulseaudio-button box {
+	padding-left:0;
+	margin-left:0;
+}
+
+ #pulseaudio-button window {
+	font-family:"Iosevka Custom";
+	margin: 3px;
+	margin-left: 1px;
+	margin-right: 1px;
+	border-radius: 7px;
+	width:3rem;
+ }
+

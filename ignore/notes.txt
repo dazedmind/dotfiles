@@ -1,0 +1,31 @@
+GIT PUSH
+
+
+$ git init
+
+$ git add .
+
+$ git status
+
+$ git commit -m "commit"
+
+$ git push
+
+NEW REPO
+
+$ git init
+$ git add .
+$ git status
+$ git commit -m "first commit"
+$ git remote add origin https://github.com/dazedmind/TooDoo.git
+$ git push -u origin main
+user
+pass
+
+Colors
+Dark gray #1c1c1c
+Darker gray #161616
+lighter gray #333333
+
+teal  #00c2c2 
+purple  #7f00e0 

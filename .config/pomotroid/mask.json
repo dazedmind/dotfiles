@@ -1,0 +1,15 @@
+{
+  "name": "mask",
+  "colors": {
+    "--color-long-round": "#dcdcdc",
+    "--color-short-round": "#dcdcdc",
+    "--color-focus-round": "#dcdcdc",
+    "--color-background": "#1c1c1c",
+    "--color-background-light": "#1c1c1c",
+    "--color-background-lightest": "#dcdcdc",
+    "--color-foreground": "#dcdcdc",
+    "--color-foreground-darker": "#dcdcdc",
+    "--color-foreground-darkest": "#dcdcdc",
+    "--color-accent": "#714006"
+  }
+}
