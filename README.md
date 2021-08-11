@@ -3,8 +3,8 @@
 
 ![Screenshot_2021-08-03_16-05-04](https://user-images.githubusercontent.com/72547619/128807296-989d5432-a0ca-4694-9f39-f46522b21281.png)
 
-# Gruvbox Terminal
-put gruvbox.theme >> /usr/share/xfce4/terminal/colorschemes
+## Gruvbox Terminal
+put `file.theme` in /usr/share/xfce4/terminal/colorschemes
 
 ## Themes
 put `ThemeFile` in ~/.themes
