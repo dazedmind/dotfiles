@@ -17,5 +17,5 @@ put `IconFile` in `~/.icons` or `/usr/share/icons/`
 
 ## Author
 
-- Website - [John Allen Troy Valena](https://www.johnallenvalena.netlify.app)
+- Website - [John Allen](https://www.johnallen.netlify.app)
 - Twitter - [@dazedmnd](https://www.twitter.com/dazedmnd)
